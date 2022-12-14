@@ -1,0 +1,21 @@
+
+
+
+
+/////////////////////////////////////////////////////////
+//  
+//
+///                                                   
+//
+// 	Theme Name :   	  Moviezip
+//  	Company :  	  TemplateSilk
+
+//  	URL:       	  https://www.templatesilk.com
+/
+//  	Version:   	  Free Version - 8.1
+//  	Contact:          support@templatesilk.com
+
+//      Documentation:    https://moviezip-documentation.blogspot.com  
+//                                 
+//
+/////////////////////////////////////////////////////////
